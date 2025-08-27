@@ -18,9 +18,9 @@
 g++ src/main.cpp -o caja.exe
 ./caja.exe
 
+---
 
 ### Linux
-```bash
 g++ main.cpp -o caja
 ./caja
 
