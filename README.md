@@ -1,13 +1,13 @@
 # taller-
   Integrantes  
-- **Valentina Orjuela** – 
-- **Nombre Apellido** 
-- **Nombre Apellido**
+- **Valentina Orjuela** 
+- **Ana Sofia Llorente** 
+- **Sofia Gomez**
 
 ---
 
  Información del curso  
-- Curso: **Programación I – Universidad XYZ**  
+- Curso: **Lógica de algoritmos – Universidad XYZ**  
 - Profesor: **Nombre del profesor**  
 - Fecha de entrega: **27/08/2025**  
 
