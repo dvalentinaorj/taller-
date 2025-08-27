@@ -1,4 +1,4 @@
-# taller-
+# Taller
   Integrantes  
 - **Valentina Orjuela** 
 - **Ana Sofia Llorente** 
@@ -7,8 +7,8 @@
 ---
 
  Información del curso  
-- Curso: **Pensamiento algorítmico – Universidad Sergio Arboleda**  
-- Fecha de entrega: **01/09/2025**  
+- **Curso:** Pensamiento algorítmico – Universidad Sergio Arboleda  
+- **Fecha de entrega:** 01/09/2025
 
 
  Guías de compilación  
@@ -18,9 +18,11 @@
 g++ src/main.cpp -o caja.exe
 ./caja.exe
 
+
 ###  Linux
 g++ main.cpp -o caja
 ./caja
+
 
 ### macOS
 clang++ main.cpp -o caja
