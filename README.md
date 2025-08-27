@@ -13,19 +13,18 @@
 
  Guías de compilación  
 
-###  Windows  
+ Windows  
 ```bash
 g++ src/main.cpp -o caja.exe
 ./caja.exe
 
 ---
 
-### Linux
+ Linux
 g++ main.cpp -o caja
 ./caja
 
-
-### macOS
+ macOS
 clang++ main.cpp -o caja
 ./caja
 
