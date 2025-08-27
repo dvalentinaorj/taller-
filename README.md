@@ -17,7 +17,7 @@
  ```bash
  ng++ src/main.cpp -o caja.exe
  ./caja.exe
-
+---
 - Linux
 g++ main.cpp -o caja
 ./caja
