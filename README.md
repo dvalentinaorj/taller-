@@ -14,9 +14,9 @@
  Guías de compilación  
 
  Windows  
-```bash
-g++ src/main.cpp -o caja.exe
-./caja.exe
+- ```bash
+- ng++ src/main.cpp -o caja.exe
+- ./caja.exe
 
 ---
 
