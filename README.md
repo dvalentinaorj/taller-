@@ -13,18 +13,16 @@
 
  Guías de compilación  
 
- Windows  
-- ```bash
-- ng++ src/main.cpp -o caja.exe
-- ./caja.exe
+- Windows  
+ ```bash
+ ng++ src/main.cpp -o caja.exe
+ ./caja.exe
 
----
-
- Linux
+- Linux
 g++ main.cpp -o caja
 ./caja
 
- macOS
+- macOS
 clang++ main.cpp -o caja
 ./caja
 
